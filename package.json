@@ -1,0 +1,23 @@
+{
+  "name": "oncology-cdss",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "AI-powered Clinical Decision Support System for chemotherapy precision dosing",
+  "author": "chitaranjanl",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^4.3.9"
+  }
+}
